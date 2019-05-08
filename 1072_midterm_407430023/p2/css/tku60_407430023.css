@@ -1,0 +1,19 @@
+#cont{
+    width: 100%;
+    height: 250px;
+    margin: 0;
+    border: 1px solid black;
+}
+#TKUmenu{
+    width: 20%;
+    height: 250px;
+    float: left;
+    background-color: pink;
+}
+button{
+    margin: 10px 0;
+}
+#display{
+    width: 80%;
+    height: 250px;
+}

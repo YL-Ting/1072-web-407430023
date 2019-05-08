@@ -1,0 +1,84 @@
+#container {
+    height: 600px;
+    width: 800px;
+}
+#logo {
+    height: 120px;
+    width: 160px;
+    background: red;
+    float: left;
+}
+#header {
+    height: 120px;
+    width: 640px;
+    background: orange;
+    float: right;
+}
+#aside {
+    clear: both;
+    height: 560px;
+    width: 160px;
+    background: yellow;
+    float: left;
+}
+#nav {
+    height: 112px;
+    width: 100%;
+    background: green;
+}
+#article {
+    height: 560px;
+    width: 640px;
+    float: right;
+    background: blue;
+}
+#section {
+    height: 500px;
+    width: 500px;
+    background: violet;
+}
+#display{
+    height: 300px;
+    width: 350px;
+    background: purple;
+}
+#picContainer{
+    height: 100px;
+    width: 450px;
+    background: cyan;
+}
+ul div {
+    float: left;
+    margin: 10px;
+}
+#small_pic_1 {
+    height: 50px;
+    width: 50px;
+    background: coral;
+}
+#small_pic_2 {
+    height: 50px;
+    width: 50px;
+    background: coral;
+}
+#small_pic_3 {
+    height: 50px;
+    width: 50px;
+    background: coral;
+}
+#small_pic_4 {
+    height: 50px;
+    width: 50px;
+    background: coral;
+}
+#small_pic_5 {
+    height: 50px;
+    width: 50px;
+    background: coral;
+}
+#footer {
+    clear: both;
+    height: 60px;
+    width: 800px;
+    background: darkslategray;
+}

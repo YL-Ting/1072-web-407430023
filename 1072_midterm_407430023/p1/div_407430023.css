@@ -1,0 +1,49 @@
+#container{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: darkcyan;
+}
+header ul li{
+    list-style: none;
+    margin: 10px;
+    padding: 5px;
+    float: right;
+    background-color: darksalmon;
+}
+#menu1{
+    height:400px;
+    width: 20%;
+    float: left;
+    background-color: aqua;
+}
+#menu2{
+    height: 400px;
+    width: 20%;
+    float: right;
+    background-color: aquamarine;
+}
+section{
+    height: 400px;
+    width: 80%;
+    float: right;
+    background-color: gray;
+}
+footer{
+    clear: both;
+    height: 50px;
+    width: 100%;
+    background-color: deepskyblue;
+}
+#left{
+    width: 80%;
+    height: 400px;
+    float: left;
+}
+li:hover{
+    background-color: bisque;
+}

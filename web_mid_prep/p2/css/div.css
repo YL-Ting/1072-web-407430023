@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    height: 100%;
+    width: 100%;
+}
+#left_container{
+    width: 20%;
+    height: 700px;
+    float: left;
+}
+#right_container{
+    width: 80%;
+    height: 700px;
+    float: right;
+}
+#logo{
+    height: 100px;
+    background-color: white;
+}
+aside{
+    height: 600px;
+    background-color: antiquewhite;
+}
+nav{
+    width: 90%;
+    height: 90%;
+    margin: 0 10px;
+    text-align: center;
+    line-height: -50px;
+    background-color: aqua;
+}
+header{
+    height: 100px;
+    text-align: center;
+    background-color: aliceblue;
+}
+article{
+    height: 600px;
+    background-color: aquamarine;
+}
+#clearfix{
+    clear: both;
+}
+footer{
+    height: 70px;
+    width: 100%;
+    background-color: coral;
+}
+img{
+    height: 80px;
+    width: 80px;
+}
+#display{
+    width: 430px;
+    height: 350px;
+}
+#pic_container{
+    height: 100px;
+    width: 80%;
+}
+#pic1{
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+#pic2{
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+#pic3{
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+#pic4{
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+#pic5{
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+.click{
+    border: 10px solid purple;
+}
